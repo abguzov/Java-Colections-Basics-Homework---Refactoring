@@ -1,5 +1,5 @@
 
-public class _03_LargestSequenceOfEqualStrings {
+
  public class _03_LargestSequenceOfEqualStrings {
  
  
